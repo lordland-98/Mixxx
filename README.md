@@ -207,4 +207,4 @@ Mixxx is a fully functional **free version** of the software, offering all featu
 Elevate your DJ skills today with a **safe download of Mixxx** and start mixing your favorite tracks for free!
 
 ---
-**Last updated:** 2026-11-10 23:50:23 UTC
+**Last updated:** 2026-11-11 03:18:19 UTC
